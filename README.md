@@ -1,3 +1,3 @@
-https://Esphey.github.io/rsschool-cv/cv
+https://esphey.github.io/rsschool-cv/
 
-https://Esphey.github.io/rsschool-cv/
+https://esphey.github.io/rsschool-cv/cv
